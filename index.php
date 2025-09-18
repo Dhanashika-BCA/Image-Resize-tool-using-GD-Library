@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Image Resizer</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="form-container">
@@ -78,4 +78,5 @@
    </script>
 </body>
 </html>
+
 
